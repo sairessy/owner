@@ -1,0 +1,14 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+* {
+  font-family: arial;
+}
+
+@media (min-width: 720px) {
+  body {
+    display: none;
+  }
+}
